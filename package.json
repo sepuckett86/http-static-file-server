@@ -1,0 +1,29 @@
+{
+  "name": "http-static-file-server",
+  "version": "1.0.0",
+  "description": "## Goal Make a Node.js server that serves files from a public directory",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sepuckett86/http-static-file-server.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sepuckett86/http-static-file-server/issues"
+  },
+  "homepage": "https://github.com/sepuckett86/http-static-file-server#readme",
+  "devDependencies": {
+    "eslint": "^6.0.1",
+    "jest": "^24.8.0",
+    "nodemon": "^1.19.1",
+    "supertest": "^4.0.2"
+  }
+}
